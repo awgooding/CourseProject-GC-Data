@@ -1,9 +1,7 @@
 CourseProject-GC-Data
 =====================
-=====================
 
 Note for Coursera Evaluator: I took the view that this README should not just be supplemental info relating to the Coursera assignment, but also suffice as a README for the underlying input data as well. As a result, much of what below overlaps with the README and features_info.txt of the underlying data set. For purposes of evaluation, I direct you to the second part of the 'Input Data', 'Output Data', and first part of the 'Information on Variables' sections. Happy Grading!
-========================================================================================================
 
 
 Purpose of Script
